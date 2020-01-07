@@ -1,0 +1,5 @@
+//phai them 2 cai nay vao build.gradle k thi k dung dc Dagger
+apply plugin: 'kotlin-kapt'
+kapt {
+    generateStubs = true
+}
