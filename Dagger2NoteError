@@ -3,3 +3,5 @@ apply plugin: 'kotlin-kapt'
 kapt {
     generateStubs = true
 }
+
+//chú ý  package di -> module -> AppModule (k để ý là viết sai annotation của các function)
