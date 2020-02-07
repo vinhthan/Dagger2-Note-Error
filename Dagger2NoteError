@@ -4,4 +4,6 @@ kapt {
     generateStubs = true
 }
 
+//ĐẶC BIỆT CHÚ Ý là phải gõ tay class AppModule
 //chú ý  package di -> module -> AppModule (k để ý là viết sai annotation của các function)
+//
